@@ -2,7 +2,7 @@ package = 'ffi-reloadable'
 version = 'scm-1'
 
 source  = {
-    url    = 'git://github.com/moonlibs/ffi-reloadable.git';
+    url    = 'git+https://github.com/moonlibs/ffi-reloadable.git';
     branch = 'master';
 }
 
